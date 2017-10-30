@@ -1,0 +1,1324 @@
+{
+  "book" : {
+    "3" : {
+      "5" : {
+        "351" : {
+          "author" : "John E. Hopcroft, Rajeev Motwani, Jeffrey D. Ullman",
+          "bookID" : 351,
+          "bookName" : "INTRODUCTION TO AUTOMATA THEORY, LANGUAGES AND COMPUTATION - 3rd EDITION"
+        },
+        "352" : {
+          "author" : "Elmasri and Navathe",
+          "bookID" : 352,
+          "bookName" : "FUNDAMENTALS OF DATABASE SYSTEMS, 5th EDITION"
+        },
+        "353" : {
+          "author" : "Leland L. Beck",
+          "bookID" : 353,
+          "bookName" : "AN INTRODUCTION TO SYSTEMS PROGRAMMING, 3rd EDITION"
+        },
+        "354" : {
+          "author" : "Alberto Leon-Garcia and Indra Widjaja",
+          "bookID" : 354,
+          "bookName" : "COMMUNICATION NETWORKS - FUNDAMENTAL CONCEPTS AND KEY ARCHITECTURES, 2nd EDITION"
+        },
+        "355" : {
+          "author" : "Roger S Pressman",
+          "bookID" : 355,
+          "bookName" : "SOFTWARE ENGINEERING - A PRACTICIONER APPROACH, 6/7th EDITION"
+        },
+        "356" : {
+          "author" : "MICHAEL L. SCOTT",
+          "bookID" : 356,
+          "bookName" : "PROGRAMMING LANGUAGE PRAGMATICS - 3rd EDITION"
+        }
+      }
+    }
+  },
+  "calendar of events" : {
+    "01-01-2018" : {
+      "day" : "01-Jan-2018",
+      "event" : "Start of Makeup examinations, valuation & results Commencement of even semester 2017-18"
+    },
+    "01-08-2017" : {
+      "day" : "01-Aug-2017",
+      "event" : "Commencement of odd semester 2017-18 / Fresher’s Day celebrations"
+    },
+    "01-09-2017" : {
+      "day" : "01-Sep-2017",
+      "event" : "Attendance status for first block period (01-Aug-2017 to 31-Aug-2017) to be announced on the department notice board. Copy to be submitted to personal section. Candidates having less than 60% attendance in a subject/s in the first block period will not be allowed to appear for the first test in the respective subject/s."
+    },
+    "01-12-2017" : {
+      "day" : "01-Dec-2017",
+      "event" : "Issue of admission tickets by the respective departments"
+    },
+    "02-09-2017" : {
+      "day" : "02-Sep-2017",
+      "event" : "Holiday – Bakrid"
+    },
+    "02-10-2017" : {
+      "day" : "02-Oct-2017",
+      "event" : "Holiday – Gandhi Jayanti"
+    },
+    "02-12-2017" : {
+      "day" : "02-Dec-2017",
+      "event" : "Holiday – Id Milad"
+    },
+    "04-09-2017" : {
+      "day" : "04-Sep-2017",
+      "event" : "HOD’s Meeting\nTest - 1"
+    },
+    "04-11-2017" : {
+      "day" : "04-Nov-2017",
+      "event" : "Announcement of SEE timetable End date for Submission of examination application forms"
+    },
+    "04-12-2017" : {
+      "day" : "04-Dec-2017",
+      "event" : "Start of Semester end examination (SEE)"
+    },
+    "05-09-2017" : {
+      "day" : "05-Sep-2017",
+      "event" : "Test-1"
+    },
+    "05-10-2017" : {
+      "day" : "05-Oct-2017",
+      "event" : "Holiday  – Valmiki Jayanti"
+    },
+    "05-12-2017" : {
+      "day" : "05-Dec-2017",
+      "event" : "Start of Evaluation of Semester end examination (SEE)"
+    },
+    "06-09-2017" : {
+      "day" : "06-Sep-2017",
+      "event" : "Test - 1"
+    },
+    "06-10-2017" : {
+      "day" : "06-Oct-2017",
+      "event" : "HOD’s Meeting"
+    },
+    "06-11-2017" : {
+      "day" : "06-Nov-2017",
+      "event" : "Holiday – Kanakadasa Jayanti"
+    },
+    "07-01-2018" : {
+      "day" : "07-Jan-2018",
+      "event" : "End of Makeup examinations, valuation & results"
+    },
+    "09-10-2017" : {
+      "day" : "09-Oct-2017",
+      "event" : "Consolidated attendance status (01-Aug-2017 to 07-Oct-2017) to be announced on the department notice board. Entries for candidates having less than 75% to be marked in RED. Copy to be submitted to personal section.     Attendance status for second block period (01-Sep-2017 to 07-Oct-2017) to be announced on the department notice board. Copy to be submitted to personal section. Candidates having less than 60% attendance in a subject/s in the second block period will not be allowed to appear for the second test in the respective subject/s."
+    },
+    "12-10-2017" : {
+      "day" : "12-Oct-2017",
+      "event" : "Test-2"
+    },
+    "13-10-2017" : {
+      "day" : "13-Oct-2017",
+      "event" : "Test-2"
+    },
+    "13-11-2017" : {
+      "day" : "13-Nov-2017",
+      "event" : "Test-3"
+    },
+    "14-10-2017" : {
+      "day" : "14-Oct-2017",
+      "event" : "Test-2"
+    },
+    "14-11-2017" : {
+      "day" : "14-Nov-2017",
+      "event" : "Test-3"
+    },
+    "15-08-2017" : {
+      "day" : "15-Aug-2017",
+      "event" : "Holiday – Independence Day"
+    },
+    "15-11-2017" : {
+      "day" : "15-Nov-2017",
+      "event" : "Test-3"
+    },
+    "16-09-2017" : {
+      "day" : "16-Sep-2017",
+      "event" : "Announcement of marks of Event-I (Test 1)"
+    },
+    "18-10-2017" : {
+      "day" : "18-Oct-2017",
+      "event" : "Holiday - Narakachaturdashi"
+    },
+    "18-11-2017" : {
+      "day" : "18-Nov-2017",
+      "event" : "Announcement of marks of Event-IV & V (Test 3)"
+    },
+    "19-09-2017" : {
+      "day" : "19-Sep-2017",
+      "event" : "Holiday  – Mahalaya Amavasye"
+    },
+    "19-12-2017" : {
+      "day" : "19-Dec-2017",
+      "event" : "End of Semester end examination (SEE)"
+    },
+    "20-10-2017" : {
+      "day" : "20-Oct-2017",
+      "event" : "Holiday - Balipadya"
+    },
+    "20-11-2017" : {
+      "day" : "20-Nov-2017",
+      "event" : "Start of Makeup tests"
+    },
+    "21-09-2017" : {
+      "day" : "21-Sep-2017",
+      "event" : "Students during their free time shall enter the staff appraisal."
+    },
+    "21-10-2017" : {
+      "day" : "21-Oct-2017",
+      "event" : "Announcement of marks of Event-II & III (Test 2)"
+    },
+    "23-09-2017" : {
+      "day" : "23-Sep-2017",
+      "event" : "Staff Council Meeting - 12:15 PM"
+    },
+    "23-10-2017" : {
+      "day" : "23-Oct-2017",
+      "event" : "Last date for dropping of courses"
+    },
+    "23-12-2017" : {
+      "day" : "23-Dec-2017",
+      "event" : "Evaluation of Semester end examination (SEE) Announcement of Makeup examination time table"
+    },
+    "25-08-2017" : {
+      "day" : "25-Aug-2017",
+      "event" : "Holiday – Ganesha Chaturthi"
+    },
+    "25-11-2017" : {
+      "day" : "25-Nov-2017",
+      "event" : "Start of Makeup tests Last working day , Staff Council Meeting - 12:15 PM Start of Study period for students"
+    },
+    "25-12-2017" : {
+      "day" : "25-Dec-2017",
+      "event" : "Holiday – Christmas"
+    },
+    "26-08-2017" : {
+      "day" : "26-Aug-2017",
+      "event" : "Staff Council Meeting - 12:15 PM"
+    },
+    "26-12-2017" : {
+      "day" : "26-Dec-2017",
+      "event" : "Declaration of results"
+    },
+    "27-11-2017" : {
+      "day" : "27-Nov-2017",
+      "event" : "Consolidated CIE & attendance to be made available in the department for students to verify, indicate changes if any and affix their signature"
+    },
+    "28-09-2017" : {
+      "day" : "28-Sep-2017",
+      "event" : "Students during their free time shall enter the staff appraisal."
+    },
+    "28-10-2017" : {
+      "day" : "28-Oct-2017",
+      "event" : "Staff Council Meeting - 12:15 PM"
+    },
+    "28-11-2017" : {
+      "day" : "28-Nov-2017",
+      "event" : "Consolidated CIE & attendance to be made available in the department for students to verify, indicate changes if any and affix their signature"
+    },
+    "29-08-2017" : {
+      "day" : "29-Aug-2017",
+      "event" : "Holiday – Swamiji Jayanti"
+    },
+    "29-09-2017" : {
+      "day" : "29-Sep-2017",
+      "event" : "Holiday – Ayudhapooja"
+    },
+    "29-11-2017" : {
+      "day" : "29-Nov-2017",
+      "event" : "Notification of non-eligibility list"
+    },
+    "30-09-2017" : {
+      "day" : "30-Sep-2017",
+      "event" : "Holiday  – Vijayadashami"
+    },
+    "30-10-2017" : {
+      "day" : "30-Oct-2017",
+      "event" : "Start date for Submission of examination application forms"
+    },
+    "30-11-2017" : {
+      "day" : "30-Nov-2017",
+      "event" : "Issue of admission tickets by the respective departments"
+    }
+  },
+  "department" : [ null, {
+    "depID" : 1,
+    "depName" : "Bio-Technology",
+    "hod" : "John Cena"
+  }, {
+    "depID" : 2,
+    "depName" : "Civil Engineering",
+    "hod" : "Dr. K. Prakash"
+  }, {
+    "depID" : 3,
+    "depName" : "Computer Science and Engineering",
+    "hod" : "Dr. H.C. Vijayalakshmi"
+  }, {
+    "depID" : 4,
+    "depName" : "Construction Technology and Management",
+    "hod" : "Dr. G.P. Chandradhara"
+  }, {
+    "depID" : 5,
+    "depName" : "Electrical and Electronics Engineering",
+    "hod" : "Dr. K. T Veeramanju"
+  }, {
+    "depID" : 6,
+    "depName" : "Electronics and Communication Engineering",
+    "hod" : "Dr. Shankaraiah"
+  }, {
+    "depID" : 7,
+    "depName" : "Environmental Engineering",
+    "hod" : "Dr. M. Mahadevaswamy"
+  }, {
+    "depID" : 8,
+    "depName" : "Industrial and Production Engineering",
+    "hod" : "Dr. T.R. Srinivas"
+  }, {
+    "depID" : 9,
+    "depName" : "Information Science and Engineering",
+    "hod" : "Dr. D S Vinod"
+  }, {
+    "depID" : 10,
+    "depName" : "Instrumentation Technology and Engineering",
+    "hod" : "Dr. V. Udayshankara"
+  }, {
+    "depID" : 11,
+    "depName" : "Polymer Science and Technology",
+    "hod" : "Dr. Siddaramaiah"
+  }, {
+    "depID" : 12,
+    "depName" : "Mechanical Engineering",
+    "hod" : "Dr. K Chandrashekar"
+  } ],
+  "subject" : {
+    "3" : [ null, {
+      "CS310" : {
+        "content" : [ "Digital Logic: The Basic Gates, Universal Logic Gates, AND-OR invert gates, Positive and Negative Logic, Introduction to HDL. Combinational Logic Circuits: Boolean laws and Theorems , Sum-of-Products Method, Truth Table to Karnaugh Map, Pairs, Quads, and Octets, Karnaugh Simplifications, Don’t-care Conditions, Product-of-sums Method, Product-of-sums simplifications, Simplification by Quine-McCluskyMethod, Hazards and Hazard covers, HDL Implementation Models.", "Data Processing Circuits: Multiplexers, Demultiplexers, 1-of-16 Decoder, BCD to Decimal Decoders, Seven Segment Decoders, Encoders, Parity Generators and Checkers, Magnitude Comparator, ROM, Programmable Array Logic, Programmable Logic Arrays, Troubleshooting with a logic probe, HDL Implementation of Data Processing Circuits. Arithmetic Building Blocks, Arithmetic Logic Unit.", "Flip-Flops: RS Flip-Flops, Gated Flip-Flops, Edge-triggered RS FLIP-FLOP, Edge-triggered D FLIP-FLOPs, Edge-triggered JK FLIP-FLOPs., Timing, JK Master-slave FLIP-FLOP, Switch Contact Bounce Circuits, Various Representation of FLIP-FLOPs, Analysis of Sequential Circuits, Conversion of Flip-Flops, HDL Implementation of FLIP-FLOP.", "Registers: Types of Registers, Serial In - Serial Out, Serial In - Parallel out, Parallel In - Serial Out, Parallel In - Parallel Out, Universal Shift Register, Applications of Shift Registers, Register implementation in HDL.  Counters: Asynchronous Counters, Decoding Gates, Synchronous Counters, Changing the Counter Modulus. Decade Counters, Pre settable Counters, Counter Design as a  Synthesis problem, A Digital Clock, Counter Design using HDL.", "Design of Synchronous and Asynchronous Sequential Circuits: Model Selection, State Transition Diagram, State Synthesis table, Design equations and Circuit diagram, Algorithmic State machine, State reduction Technique. Asynchronous Sequential Circuits: Analysis of Asynchronous Sequential Circuits, Problems with Asynchronous Sequential Circuits, Design of Asynchronous Sequential Circuits, FSM Implementation in HDL." ],
+        "credits" : 5,
+        "numberOfHours" : 52,
+        "subCode" : "CS310",
+        "subName" : "Digital System Design"
+      },
+      "CS320" : {
+        "content" : [ "Fundamental of Logic: Basic Connectives and Truth Tables, Logical Equivalence: The Laws of Logic, Logical Implication: Rules of Inference, The Use of Quantifiers, Quantifiers, Definitions and the Proofs of Theorems.", "Relations: Properties of relations, Computer Recognition: Zeros- One Matrices and Directed Graphs, Partial; orders:Hasse diagrams , Equivalence Relations and Partitions , Lattices.", "Elements of coding theory and Hamming Metric, generation of codes using Parity check and Generator matrices.", "Graph theory: Definitions and Examples, Subgraphs, Complements, and Graph Isomorphism, Vertex degree, Euler trail and circuits, Planar Graphs, Hamiltonian Paths and cycles. Trees: Definitions, Properties and Examples, Rooted trees, trees and sorting weighted trees and prefix Codes.", "The principle of Inclusion and Exclusion, Generalizations of principle, Derangements: - Nothing is in its Right place, Rook Polynomials.      Generating Function\t: Introductory Examples, Definition and examples –Calculation techniques, Partition of Integers, The Exponential Generating Function, and the Summation Operator, Recurrence relations" ],
+        "credits" : 4,
+        "numberOfHours" : 52,
+        "subCode" : "CS320",
+        "subName" : "Mathematical Structures and Combinatorics"
+      },
+      "CS330" : {
+        "content" : [ "Basic Structures of Computers, Machine Instructions & Programs: Basic Operational Concepts, Bus Structures, Performance, Multiprocessors and Multicomputers. Machine Instructions and Programs: Arithmetic operations and characters, Memory Location and Addresses, Memory Operations, Instructions and Instruction Sequencing, Addressing Modes, Assembly Language, Basic Input/output Operations, Stacks and Queues, Subroutines, Additional Instructions, Encoding of Machine Instruction.", "Input/Output Organization: Accessing I/O Devices, Interrupts – Interrupt Hardware, Enabling and Disabling Interrupts, Handling Multiple Devices, Controlling Device Requests, Exceptions, Direct Memory Access, Buses, Interface Circuits.", "The Memory System: Basic Concepts, Semiconductor RAM Memories, Read Only Memories, Speed, Size, and Cost, Cache Memories – Mapping Functions, Replacement Algorithms, Performance Considerations, Virtual Memories, Secondary Storage.", "Arithmetic Operations: Addition and Subtraction of Signed Numbers, Design of Fast Adders, Multiplication of Positive Numbers, Signed Operand Multiplication, Fast Multiplication, Integer Division, Floating-point Numbers and Operations.", "Basic Processing Unit: Some Fundamental Concepts, Execution of a Complete Instruction, Multiple Bus Organization, Hard-wired Control and Micro programmed Control." ],
+        "credits" : 4,
+        "numberOfHours" : 52,
+        "subCode" : "CS330",
+        "subName" : "Computer Organization"
+      },
+      "CS340" : {
+        "content" : [ "\"Introduction to Data structures:\tThe Abstract Data Type, Atomic and Composite Data, Pointers Revisited: Pointers to variables, arrays, structures and functions. Data Structure, Model for an Abstract Data Type, ADT Implementations. Array Operations: Traversing, inserting, deleting, Searching, and sorting. Dynamically allocated arrays, Polynomial ADT, Sparse matrix ADT. \"", "Linear List: Array vs Linked storage representation. Representation of linked lists in Memory, Memory allocation and Garbage Collection. List ADT: Linked list operations: Traversing, Searching, Insertion, updation and Deletion. Circular linked lists, Doubly Linked lists, header linked lists. Applications of Linked lists – Representation of Polynomials, Sparse matrix and Long positive numbers.", "Stacks and Queues: Stack ADT , Array Representation of Stacks, Stacks using Dynamic Arrays, Multiple Stacks, Linked Stacks .Stack Applications: Conversions of expressions, evaluation of expressions, Recursion. Queues: Queue ADT, Array Representation, Circular Queues, queues using Dynamic arrays, Dequeues, Priority Queues, Multiple Queues, Linked Queues Queue Applications.", "Trees: Basic tree concepts, General trees and their representations. Binary Trees, Array and linked Representation of Binary Trees, Binary tree ADT:  Binary Tree Traversals. Additional Binary tree operations: Insertion, deletion, searching. Binary Search Trees – Definition, Insertion, Deletion, Traversal and Searching. Binary expression trees: Construction of expression trees for different notations, Evaluation of Expression. Threaded binary trees.", "Priority Queues and Graphs: Priority queue implementation using binary heap, Different types of heaps. Graphs: Basic concepts, Graph storage structures, Graph ADT, Traversal methods: Depth first search and Breadth first search, Applications of DFS and BFS." ],
+        "credits" : 5,
+        "numberOfHours" : 52,
+        "subCode" : "CS340",
+        "subName" : "Data Structures"
+      },
+      "CS350" : {
+        "content" : [ "Introduction to C++ Introduction: Overview of C++, Sample C++ program, Different data types, operators, expressions, and statements, arrays and strings, pointers & user-defined types Function Components, argument passing, inline functions, function overloading, recursive functions. Concepts of object-oriented programming, procedure-oriented programming vs. object-oriented programming. ", "Classes, Objects and Polymorphism Class Specification, Class Objects, Scope resolution operator, Access members, Defining member functions, Data hiding, Constructors, Destructors, Parameterized constructors, Static data members, Functions. Friend functions, Passing objects as arguments, Returning objects, Arrays of objects, Dynamic objects, Pointers to objects, Copy constructors, Generic functions and classes, Applications Operator overloading using friend functions such as +, - , pre-increment, post-increment, [ ] etc., overloading <>", "Inheritance Base Class, Inheritance and protected members, Protected base class inheritance, Inheriting multiple base classes. Constructors, Destructors and Inheritance, Passing parameters to base class constructors, Granting access, Virtual base classes.", "Concepts of run-time polymorphism Virtual functions and Polymorphism: Virtual function, calling a Virtual function through a base class reference, Virtual attribute is inherited, Virtual functions are hierarchical, Pure virtual functions, Abstract classes, Using virtual functions, Early and late binding.", "I/O System Basics, File I/O, Exceptions and Standard template library I/O System Basics, File I/O: C++ stream classes, Formatted I/O, I/O manipulators, fstream and the File classes, File operations. Exception Handling: Exception handling fundamentals, Exception handling options. STL: An overview, containers, vectors, lists, maps." ],
+        "credits" : 5,
+        "numberOfHours" : 52,
+        "subCode" : "CS350",
+        "subName" : "Object Oriented Programming with C++"
+      }
+    }, null, {
+      "CS510" : {
+        "content" : [ "Introduction to Finite Automata: The central concepts of Automata theory; Deterministic finite automata; Nondeterministic finite automata; An application of finite automata; Finite automata  with Epsilon-transitions; Equivalence and minimization of automata.", "Regular Expressions and Properties of Regular Languages:  Regular expressions; Finite Automata and Regular Expressions; Applications of Regular Expressions; Proving languages not to be regular languages; Closure properties of regular Languages; Decision properties of regular languages;", "Context-Free Grammars and Languages: Context-Free Grammars; Parse trees; Applications of Context-Free Grammars; Ambiguity in Grammars and Languages; Normal forms for CFGs;", "Pushdown Automata and Properties of Context-Free Languages:\t    Definition of the Pushdown Automata; The languages of a PDA; Equivalence of PDA’s and  CFG’s; Deterministic Pushdown Automata; The pumping lemma for CFGs; Closure properties of CFLs.", "Introduction to Turing Machine: Problems that Computers cannot solve; The Turing machine; Programming techniques for  Turing Machines; Extensions to the basic Turing Machines; Restricted Turing Machines; Turing Machine and Computers" ],
+        "credits" : 4,
+        "numberOfHours" : 52,
+        "subCode" : "CS510",
+        "subName" : "FAFL"
+      },
+      "CS520" : {
+        "content" : [ "Introduction: Introduction; An example; Characteristics of Database approach; Actors on the screen; Workers behind the scene; Advantages of using DBMS approach; A brief history of database applications; Different Data models for representing database with advantages and disadvantages. Schemas and instances; Three-schema architecture and data independence; Database languages and interfaces; The database system environment; Centralized and client-server architectures; Classification of DBMS.", "Data Models,Entity-Relationship Model: Using High-Level Conceptual Data Models for Database Design; An Example Database Application; Entity Types, Entity Sets, Attributes and Keys; Relationship types, Relationship Sets, Roles and Structural Constraints; Weak Entity Types; Refining the ER Design; ER Diagrams, Naming Conventions and Design Issues; higher order relationship. Relational Model and Relational Algebra : Relational Model Concepts; Relational Model Constraints and Relational Database Schemas; Update Operations, Transactions and dealing with constraint violations; Unary Relational Operations: SELECT and PROJECT; Relational Algebra Operations from Set Theory; Binary Relational Operations : JOIN and DIVISION; Additional Relational Operations; Examples of Queries in Relational Algebra; Relational Database Design Using ER- to-Relational Mapping.", "SQL : SQL Data Definition and Data Types; Specifying basic constraints in SQL; Schema change statements in SQL; Basic queries in SQL; More complex SQL Queries.  Insert, Delete and Update statements in SQL; Specifying constraints as Assertion and Trigger; Views (Virtual Tables) in SQL; Additional features of SQL; Database programming issues and techniques;Embedded SQL, Dynamic SQL; Database stored procedures and SQL /PSM.", "Database Design : Informal Design Guidelines for Relation Schemas; Functional Dependencies; Normal Forms Based on Primary Keys; General Definitions of Second and Third Normal Forms; Boyce-Codd Normal Form Properties of Relational Decompositions; Algorithms for Relational Database Schema Design; Multivalued Dependencies and Fourth Normal Form; Join Dependencies and Fifth Normal Form; Inclusion Dependencies; Other Dependencies and Normal Forms", "Transaction Management: The ACID Properties; Transactions and Schedules; Concurrent Execution of Transactions; Lock- Based Concurrency Control; Performance of locking; Transaction support in SQL; Introduction to crash recovery; 2PL, Serializability and Recoverability; Lock Management; Introduction to ARIES; The log; Other recovery-related structures; The write-ahead log protocol; Check pointing; Recovering from a System Crash; Media Recovery; Other approaches and interaction with concurrency control." ],
+        "credits" : 4,
+        "numberOfHours" : 52,
+        "subCode" : "CS520",
+        "subName" : "Data Base Management Systems"
+      },
+      "CS530" : {
+        "content" : [ "Machine Architecture: Introduction, System Software and Machine Architecture, Simplified Instructional Computer (SIC) - SIC Machine Architecture, SIC/XE Machine Architecture, SIC Programming Examples, SIC/XE Programming Examples, Traditional (CISC) Machines - Pentium Pro Architecture, RISC Machine - Ultra SPARC Architecture.", "Assemblers: Basic Assembler Function - A Simple SIC Assembler, Assembler Algorithm and Data Structures, Machine Dependent Assembler Features - Instruction Formats & Addressing Modes, Program Relocation. Design of a functionally complete instruction set with 10-15 instructions for a simple single accumulator machine. Design of instruction-level simulators of machines, with the single accumulator machine as an example.\t Machine Independent Assembler Features – Literals, Symbol-Definition Statements, Expression, Program Blocks, Control Sections and Programming Linking, Assembler Design Operations - One-Pass Assembler, Multi-Pass Assembler, Implementation Examples - MASM Assembler, SPARC Assembler.  ", "Macro Processor, Editors and Debugging Systems: Basic Macro Processor Functions - Macro Definitions and Expansion, Macro Processor Algorithm and Data Structures, Machine-Independent Macro Processor Features - Concatenation of Macro Parameters, Generation of Unique Labels, Conditional Macro Expansion, Keyword Macro Parameters, Macro Processor Design Options - Recursive Macro Expansion, General-Purpose Macro Processors, Macro Processing Within Language Translators, Implementation Examples - MASM Macro Processor, ANSI C Macro Processor. Text Editors - Overview of Editing Process, User Interface, Editor Structure, Interactive  Debugging Systems - Debugging Functions and Capabilities, Relationship With Other Parts Of The System, User-Interface Criteria. ", "Compilers: Basic Compiler Functions - Grammars, Lexical Analysis, Syntactic Analysis, Code Generation,   Machine Dependent Compiler Features – Intermediate Form of the Program, Machine Dependent Code Optimization, Machine Independent Compiler Features – Structured Variables, Machine Independent Code Optimization, Storage Allocation, Block Structured Languages, Compiler Design Options – Division into Passes, Interpreters, P-Code Compilers, Compilers-Compilers,  Implementation Examples - the YACC Compiler - Compiler.", "LEX and YACC: The Simplest LEX Program, Recognizing Words with LEX, Symbol Tables, Grammars, Parser-Lexer Communication, The Parts of Speech Lexer, YACC Parser, The Rules Section, Running LEX and YACC, LEX and Hand- Written Lexers, Using LEX – Regular Expression, Examples of Regular Expressions, A Word Counting Program, Parsing a Command Line. Using YACC – Grammars, Recursive Rules, Shift/Reduce Parsing, What YACC Cannot Parse, A YACC Parser – The Definition Section, The Rules Section, Symbol Values and Actions, The Lexer, Compiling and Running a Simple Parser, Arithmetic Expressions and Ambiguity, Variables and Typed Tokens." ],
+        "credits" : 4,
+        "numberOfHours" : 52,
+        "subCode" : "CS530",
+        "subName" : "Systems Software"
+      },
+      "CS540" : {
+        "content" : [ "Communication Networks & Services, Applications & Layered Architectures      Evolution of Network Architecture and Services; Future network architectures and their services; Key factors in communication network evolution. Examples of Protocols, Services, and Layering; The OSI Reference Model; Overview of TCP/IP Architecture; Application Layer Protocols and TCP/IP Utilities.", "Digital Transmission \t Digital Representation of Information: Block-Oriented Information, Stream Information; Why Digital Communications? Comparison of Analog and Digital Transmission, Basic properties of Digital Transmission Systems; Digital Representation of Analog Signals: Bandwidth of Analog Signals, Sampling of an Analog Signal, Digital Transmission of Analog Signals;  Characterization of Communication Channels: Frequency Domain Characterization, Time Domain Characterization; Fundamental Limits in Digital Transmission: The Nyquist Signaling Rate, The Shannon Channel Capacity; Line Coding. Modems and Digital Modulation: Binary Phase Modulation, QAM and Signal Constellations, Telephone Modem Standards; Properties of Media and Digital Transmission Systems: Twisted Pair, Coaxial Cable, Optical Fiber, Radio Transmission, Infrared Light; Error Detection and Correction: Error Detection, Two Dimensional Parity Checks, Internet Checksum, Polynomial Codes, Standardized Polynomial Codes, Error Detecting Capability of a Polynomial Code.", "Circuit Switching Networks \t Multiplexing: Frequency Division Multiplexing, Time Division Multiplexing, Wavelength-Division Multiplexing; SONET: SONET Multiplexing, SONET Frame Structure; Transport Networks: SONET Networks, Optical Transport networks; Circuit Switches: Space Division Switches, Time Division Switches; The Telephone Network: Transmission Facilities, End to End Digital Services; Cellular telephone networks.", "Peer-to-Peer Protocols and Data Link Layer  Peer-to-Peer Protocols and Service Models: Service models, Examples of services, End to end versus hop by hop; ARQ Protocols and Reliable Data Transfer Service: Stop-and-Wait ARQ, Go-Back-N ARQ, Selective Repeat ARQ; Other Peer-to-Peer Protocols: Sliding-window flow control, Timing recovery for synchronous services, TCP reliable stream service and flow control. Data Link Controls: Framing; Point to Point Protocol; HDLC Data link Control: Data link services, HDLC configuration and transfer modes, HDLC frame format, Typical frame exchanges; Link Sharing using Packet Multiplexers: Statistical Multiplexing, Speech Interpolation and the Multiplexing of Packetized Speech.", "Medium Access Control Protocols and Local Area Networks\t The Medium Access Control Protocols: Multiple Access Communications; Random Access : ALOHA, Slotted ALOHA, CSMA, CSMA-CD; Scheduling Approaches to Medium Access Control: Reservation Systems, Polling, Token-Passing Rings, Comparison of scheduling approaches in MAC, Comparison of random access and scheduling MAC; Channelization: FDMA, TDMA, CDMA. LAN Protocols: LAN Structure , The Medium Access Control Sublayer, The Logical Link Control Sublayer; Ethernet and IEEE 802.3 LAN Standard: Ethernet Protocol, Frame structure, Physical Layers, Fast Ethernet ,Gigabit Ethernet, 10 Gigabit Ethernet; Token Ring and IEEE 802.5 LAN Standard: Token-Ring Protocol, Frame structure; FDDI; Wireless LANs and IEEE 802.11 Standard: Ad hoc and Infrastructure Networks, Frame structure and addressing, Medium Access Control; LAN Bridges and Ethernet Switches: Transparent Bridges, Source Routing Bridges, Mixed-Media Bridges, Virtual LANs." ],
+        "credits" : 4,
+        "numberOfHours" : 52,
+        "subCode" : "CS560",
+        "subName" : "Computer Networks – I"
+      },
+      "CS550" : {
+        "content" : [ "Introduction to Software Engineering The Evolving Role of Software, Software, The Changing Nature of Software, Legacy Software. A Generic View of Process Software Engineering- A Layered Technology, A Process Framework, The Capability Maturity Model Integration (CMMI), Process Assessment, Personal and Team Process Model, Process Technology, Product and Process. ", "Process Models                               Prescriptive Models, The Waterfall Model, Incremental Process Models, Evolutionary Process Models, Specialized Process Models, The Unified Process. An Agile View Of Process What is Agility, What is an Agile Process, The Agile Process Models.", "Requirements Engineering                                                                  \t  A Bridge to Design and Construction, Requirements Engineering Tasks, Initiating the Requirements Engineering Process, Eliciting Requirements, Developing Use-Cases, Building the Analysis Models, Negotiating Requirements, Validating Requirements.", "Design Engineering                 Design within the Context of Software Engineering, Design Process and Design Quality, Design Concepts, The Design Model, Pattern-Based Software Design. Creating an Architectural Design Software Architecture, Data Design, Architectural Styles and Patterns, Architectural Design, Assessing Alternative Architectural Design, Mapping Data Flow into a Software Architecture.", "Testing Strategies A Strategic Approach to Software Testing, Strategic Issues, Test Strategies for Conventional Software, Test Strategies for Object-Oriented Software, Validation Testing, System Testing, The Art of Debugging Testing Tactics Software Testing Fundamentals, Black-Box and White-Box Testing, White-Box Testing, Basis Path Testing, Control Structure Testing, Black-Box Testing, Object-Oriented Testing Methods, Testing Methods Applicable at the Class Level, Interclass Test Case Design, Testing for Specialized Environment, Architectures and Applications, Testing Patterns." ],
+        "credits" : 4,
+        "numberOfHours" : 52,
+        "subCode" : "CS550",
+        "subName" : "Software Engineering"
+      },
+      "CS560" : {
+        "content" : [ "Introduction: Names, Scopes, Bindings, Data Types: The art of language design; Programming language spectrum; why study programming languages? Compilation and interpretation; Programming environments. Names, scope, and bindings: The notion of binding time; Object lifetime and storage management; Scope rules; Implementing scope; The meaning of names within a scope; The binding of referencing environments; Macro expansion. Data Types: Type systems; Type checking; Records and variants; Arrays; Strings; Sets; Pointers and recursive types; Lists; Files and Input/Output; Equality testing and assignment.", "Control Flow and Subroutine: Expression evaluation; Structured and unstructured flow; Sequencing; Selection; Iteration; Recursion; Non- determinacy Control Flow: Review of stack layout; Calling sequences; Parameter passing; Generic subroutines and modules; Exception handling; Co routines; Events.", "Data Abstraction and Object Orientation: Object oriented programming; Encapsulation and Inheritance; Initialization and finalization; Dynamic method binding; Multiple inheritance; Object oriented programming revisited.", "Functional Languages, and Logic Languages: Functional Languages: Origins; Concepts; A review/overview of scheme; Evaluation order revisited; Higher-order functions; Functional programming in perspective. Logic Languages: Concepts; Prolog; Logic programming in perspective.", "Concurrency and Run time Program Management : Background and motivation; Concurrency programming fundamentals; Implementing synchronization; Language-level mechanisms; Message passing.  Run time Programming: Virtual machines; Late binding of machine code; Inspection/introspection." ],
+        "credits" : 4,
+        "numberOfHours" : 52,
+        "subCode" : "CS560",
+        "subName" : "Principles of  Programming Language"
+      }
+    } ],
+    "9" : [ null, {
+      "IS310" : {
+        "content" : [ "Digital Logic: The Basic Gates, Universal Logic Gates, AND-OR invert gates, Positive and Negative Logic, Introduction to HDL. Combinational Logic Circuits: Boolean laws and Theorems , Sum-of-Products Method, Truth Table to Karnaugh Map, Pairs, Quads, and Octets, Karnaugh Simplifications, Don’t-care Conditions, Product-of-sums Method, Product-of-sums simplifications, Simplification by Quine-McCluskyMethod, Hazards and Hazard covers, HDL Implementation Models.", "Data Processing Circuits: Multiplexers, Demultiplexers, 1-of-16 Decoder, BCD to Decimal Decoders, Seven Segment Decoders, Encoders, Parity Generators and Checkers, Magnitude Comparator, ROM, Programmable Array Logic, Programmable Logic Arrays, Troubleshooting with a logic probe, HDL Implementation of Data Processing Circuits. Arithmetic Building Blocks, Arithmetic Logic Unit.", "Flip-Flops: RS Flip-Flops, Gated Flip-Flops, Edge-triggered RS FLIP-FLOP, Edge-triggered D FLIP-FLOPs, Edge-triggered JK FLIP-FLOPs., Timing, JK Master-slave FLIP-FLOP, Switch Contact Bounce Circuits, Various Representation of FLIP-FLOPs, Analysis of Sequential Circuits, Conversion of Flip-Flops, HDL Implementation of FLIP-FLOP.", "Registers: Types of Registers, Serial In - Serial Out, Serial In - Parallel out, Parallel In - Serial Out, Parallel In - Parallel Out, Universal Shift Register, Applications of Shift Registers, Register implementation in HDL.  Counters: Asynchronous Counters, Decoding Gates, Synchronous Counters, Changing the Counter Modulus. Decade Counters, Pre settable Counters, Counter Design as a  Synthesis problem, A Digital Clock, Counter Design using HDL.", "Design of Synchronous and Asynchronous Sequential Circuits: Model Selection, State Transition Diagram, State Synthesis table, Design equations and Circuit diagram, Algorithmic State machine, State reduction Technique. Asynchronous Sequential Circuits: Analysis of Asynchronous Sequential Circuits, Problems with Asynchronous Sequential Circuits, Design of Asynchronous Sequential Circuits, FSM Implementation in HDL." ],
+        "credits" : 5,
+        "numberOfHours" : 52,
+        "subCode" : "IS310",
+        "subName" : "Data Structures & Applications"
+      },
+      "IS320" : {
+        "content" : [ "Fundamental of Logic: Basic Connectives and Truth Tables, Logical Equivalence: The Laws of Logic, Logical Implication: Rules of Inference, The Use of Quantifiers, Quantifiers, Definitions and the Proofs of Theorems.", "Relations: Properties of relations, Computer Recognition: Zeros- One Matrices and Directed Graphs, Partial; orders:Hasse diagrams , Equivalence Relations and Partitions , Lattices.", "Elements of coding theory and Hamming Metric, generation of codes using Parity check and Generator matrices.", "Graph theory: Definitions and Examples, Subgraphs, Complements, and Graph Isomorphism, Vertex degree, Euler trail and circuits, Planar Graphs, Hamiltonian Paths and cycles. Trees: Definitions, Properties and Examples, Rooted trees, trees and sorting weighted trees and prefix Codes.", "The principle of Inclusion and Exclusion, Generalizations of principle, Derangements: - Nothing is in its Right place, Rook Polynomials.      Generating Function\t: Introductory Examples, Definition and examples –Calculation techniques, Partition of Integers, The Exponential Generating Function, and the Summation Operator, Recurrence relations" ],
+        "credits" : 5,
+        "numberOfHours" : 52,
+        "subCode" : "IS320",
+        "subName" : "Computer Organization & Architecture"
+      },
+      "IS330" : {
+        "content" : [ "Basic Structures of Computers, Machine Instructions & Programs: Basic Operational Concepts, Bus Structures, Performance, Multiprocessors and Multicomputers. Machine Instructions and Programs: Arithmetic operations and characters, Memory Location and Addresses, Memory Operations, Instructions and Instruction Sequencing, Addressing Modes, Assembly Language, Basic Input/output Operations, Stacks and Queues, Subroutines, Additional Instructions, Encoding of Machine Instruction.", "Input/Output Organization: Accessing I/O Devices, Interrupts – Interrupt Hardware, Enabling and Disabling Interrupts, Handling Multiple Devices, Controlling Device Requests, Exceptions, Direct Memory Access, Buses, Interface Circuits.", "The Memory System: Basic Concepts, Semiconductor RAM Memories, Read Only Memories, Speed, Size, and Cost, Cache Memories – Mapping Functions, Replacement Algorithms, Performance Considerations, Virtual Memories, Secondary Storage.", "Arithmetic Operations: Addition and Subtraction of Signed Numbers, Design of Fast Adders, Multiplication of Positive Numbers, Signed Operand Multiplication, Fast Multiplication, Integer Division, Floating-point Numbers and Operations.", "Basic Processing Unit: Some Fundamental Concepts, Execution of a Complete Instruction, Multiple Bus Organization, Hard-wired Control and Micro programmed Control." ],
+        "credits" : 5,
+        "numberOfHours" : 52,
+        "subCode" : "IS330",
+        "subName" : "Object Oriented Programming Concepts"
+      },
+      "IS340" : {
+        "content" : [ "\"Introduction to Data structures:\tThe Abstract Data Type, Atomic and Composite Data, Pointers Revisited: Pointers to variables, arrays, structures and functions. Data Structure, Model for an Abstract Data Type, ADT Implementations. Array Operations: Traversing, inserting, deleting, Searching, and sorting. Dynamically allocated arrays, Polynomial ADT, Sparse matrix ADT. \"", "Linear List: Array vs Linked storage representation. Representation of linked lists in Memory, Memory allocation and Garbage Collection. List ADT: Linked list operations: Traversing, Searching, Insertion, updation and Deletion. Circular linked lists, Doubly Linked lists, header linked lists. Applications of Linked lists – Representation of Polynomials, Sparse matrix and Long positive numbers.", "Stacks and Queues: Stack ADT , Array Representation of Stacks, Stacks using Dynamic Arrays, Multiple Stacks, Linked Stacks .Stack Applications: Conversions of expressions, evaluation of expressions, Recursion. Queues: Queue ADT, Array Representation, Circular Queues, queues using Dynamic arrays, Dequeues, Priority Queues, Multiple Queues, Linked Queues Queue Applications.", "Trees: Basic tree concepts, General trees and their representations. Binary Trees, Array and linked Representation of Binary Trees, Binary tree ADT:  Binary Tree Traversals. Additional Binary tree operations: Insertion, deletion, searching. Binary Search Trees – Definition, Insertion, Deletion, Traversal and Searching. Binary expression trees: Construction of expression trees for different notations, Evaluation of Expression. Threaded binary trees.", "Priority Queues and Graphs: Priority queue implementation using binary heap, Different types of heaps. Graphs: Basic concepts, Graph storage structures, Graph ADT, Traversal methods: Depth first search and Breadth first search, Applications of DFS and BFS." ],
+        "credits" : 5,
+        "numberOfHours" : 52,
+        "subCode" : "IS340",
+        "subName" : "Discrete Mathematical Structures"
+      }
+    }, null, {
+      "CS510" : {
+        "content" : [ "Introduction to Finite Automata: The central concepts of Automata theory; Deterministic finite automata; Nondeterministic finite automata; An application of finite automata; Finite automata  with Epsilon-transitions; Equivalence and minimization of automata.", "Regular Expressions and Properties of Regular Languages:  Regular expressions; Finite Automata and Regular Expressions; Applications of Regular Expressions; Proving languages not to be regular languages; Closure properties of regular Languages; Decision properties of regular languages;", "Context-Free Grammars and Languages: Context-Free Grammars; Parse trees; Applications of Context-Free Grammars; Ambiguity in Grammars and Languages; Normal forms for CFGs;", "Pushdown Automata and Properties of Context-Free Languages:\t    Definition of the Pushdown Automata; The languages of a PDA; Equivalence of PDA’s and  CFG’s; Deterministic Pushdown Automata; The pumping lemma for CFGs; Closure properties of CFLs.", "Introduction to Turing Machine: Problems that Computers cannot solve; The Turing machine; Programming techniques for  Turing Machines; Extensions to the basic Turing Machines; Restricted Turing Machines; Turing Machine and Computers" ],
+        "credits" : 4,
+        "numberOfHours" : 52,
+        "subCode" : "CS510",
+        "subName" : "FAFL"
+      },
+      "CS520" : {
+        "content" : [ "Introduction: Introduction; An example; Characteristics of Database approach; Actors on the screen; Workers behind the scene; Advantages of using DBMS approach; A brief history of database applications; Different Data models for representing database with advantages and disadvantages. Schemas and instances; Three-schema architecture and data independence; Database languages and interfaces; The database system environment; Centralized and client-server architectures; Classification of DBMS.", "Data Models,Entity-Relationship Model: Using High-Level Conceptual Data Models for Database Design; An Example Database Application; Entity Types, Entity Sets, Attributes and Keys; Relationship types, Relationship Sets, Roles and Structural Constraints; Weak Entity Types; Refining the ER Design; ER Diagrams, Naming Conventions and Design Issues; higher order relationship. Relational Model and Relational Algebra : Relational Model Concepts; Relational Model Constraints and Relational Database Schemas; Update Operations, Transactions and dealing with constraint violations; Unary Relational Operations: SELECT and PROJECT; Relational Algebra Operations from Set Theory; Binary Relational Operations : JOIN and DIVISION; Additional Relational Operations; Examples of Queries in Relational Algebra; Relational Database Design Using ER- to-Relational Mapping.", "SQL : SQL Data Definition and Data Types; Specifying basic constraints in SQL; Schema change statements in SQL; Basic queries in SQL; More complex SQL Queries.  Insert, Delete and Update statements in SQL; Specifying constraints as Assertion and Trigger; Views (Virtual Tables) in SQL; Additional features of SQL; Database programming issues and techniques;Embedded SQL, Dynamic SQL; Database stored procedures and SQL /PSM.", "Database Design : Informal Design Guidelines for Relation Schemas; Functional Dependencies; Normal Forms Based on Primary Keys; General Definitions of Second and Third Normal Forms; Boyce-Codd Normal Form Properties of Relational Decompositions; Algorithms for Relational Database Schema Design; Multivalued Dependencies and Fourth Normal Form; Join Dependencies and Fifth Normal Form; Inclusion Dependencies; Other Dependencies and Normal Forms", "Transaction Management: The ACID Properties; Transactions and Schedules; Concurrent Execution of Transactions; Lock- Based Concurrency Control; Performance of locking; Transaction support in SQL; Introduction to crash recovery; 2PL, Serializability and Recoverability; Lock Management; Introduction to ARIES; The log; Other recovery-related structures; The write-ahead log protocol; Check pointing; Recovering from a System Crash; Media Recovery; Other approaches and interaction with concurrency control." ],
+        "credits" : 4,
+        "numberOfHours" : 52,
+        "subCode" : "CS520",
+        "subName" : "Data Base Management Systems"
+      },
+      "CS530" : {
+        "content" : [ "Machine Architecture: Introduction, System Software and Machine Architecture, Simplified Instructional Computer (SIC) - SIC Machine Architecture, SIC/XE Machine Architecture, SIC Programming Examples, SIC/XE Programming Examples, Traditional (CISC) Machines - Pentium Pro Architecture, RISC Machine - Ultra SPARC Architecture.", "Assemblers: Basic Assembler Function - A Simple SIC Assembler, Assembler Algorithm and Data Structures, Machine Dependent Assembler Features - Instruction Formats & Addressing Modes, Program Relocation. Design of a functionally complete instruction set with 10-15 instructions for a simple single accumulator machine. Design of instruction-level simulators of machines, with the single accumulator machine as an example.\t Machine Independent Assembler Features – Literals, Symbol-Definition Statements, Expression, Program Blocks, Control Sections and Programming Linking, Assembler Design Operations - One-Pass Assembler, Multi-Pass Assembler, Implementation Examples - MASM Assembler, SPARC Assembler.  ", "Macro Processor, Editors and Debugging Systems: Basic Macro Processor Functions - Macro Definitions and Expansion, Macro Processor Algorithm and Data Structures, Machine-Independent Macro Processor Features - Concatenation of Macro Parameters, Generation of Unique Labels, Conditional Macro Expansion, Keyword Macro Parameters, Macro Processor Design Options - Recursive Macro Expansion, General-Purpose Macro Processors, Macro Processing Within Language Translators, Implementation Examples - MASM Macro Processor, ANSI C Macro Processor. Text Editors - Overview of Editing Process, User Interface, Editor Structure, Interactive  Debugging Systems - Debugging Functions and Capabilities, Relationship With Other Parts Of The System, User-Interface Criteria. ", "Compilers: Basic Compiler Functions - Grammars, Lexical Analysis, Syntactic Analysis, Code Generation,   Machine Dependent Compiler Features – Intermediate Form of the Program, Machine Dependent Code Optimization, Machine Independent Compiler Features – Structured Variables, Machine Independent Code Optimization, Storage Allocation, Block Structured Languages, Compiler Design Options – Division into Passes, Interpreters, P-Code Compilers, Compilers-Compilers,  Implementation Examples - the YACC Compiler - Compiler.", "LEX and YACC: The Simplest LEX Program, Recognizing Words with LEX, Symbol Tables, Grammars, Parser-Lexer Communication, The Parts of Speech Lexer, YACC Parser, The Rules Section, Running LEX and YACC, LEX and Hand- Written Lexers, Using LEX – Regular Expression, Examples of Regular Expressions, A Word Counting Program, Parsing a Command Line. Using YACC – Grammars, Recursive Rules, Shift/Reduce Parsing, What YACC Cannot Parse, A YACC Parser – The Definition Section, The Rules Section, Symbol Values and Actions, The Lexer, Compiling and Running a Simple Parser, Arithmetic Expressions and Ambiguity, Variables and Typed Tokens." ],
+        "credits" : 4,
+        "numberOfHours" : 52,
+        "subCode" : "CS530",
+        "subName" : "Systems Software"
+      },
+      "CS540" : {
+        "content" : [ "Communication Networks & Services, Applications & Layered Architectures      Evolution of Network Architecture and Services; Future network architectures and their services; Key factors in communication network evolution. Examples of Protocols, Services, and Layering; The OSI Reference Model; Overview of TCP/IP Architecture; Application Layer Protocols and TCP/IP Utilities.", "Digital Transmission \t Digital Representation of Information: Block-Oriented Information, Stream Information; Why Digital Communications? Comparison of Analog and Digital Transmission, Basic properties of Digital Transmission Systems; Digital Representation of Analog Signals: Bandwidth of Analog Signals, Sampling of an Analog Signal, Digital Transmission of Analog Signals;  Characterization of Communication Channels: Frequency Domain Characterization, Time Domain Characterization; Fundamental Limits in Digital Transmission: The Nyquist Signaling Rate, The Shannon Channel Capacity; Line Coding. Modems and Digital Modulation: Binary Phase Modulation, QAM and Signal Constellations, Telephone Modem Standards; Properties of Media and Digital Transmission Systems: Twisted Pair, Coaxial Cable, Optical Fiber, Radio Transmission, Infrared Light; Error Detection and Correction: Error Detection, Two Dimensional Parity Checks, Internet Checksum, Polynomial Codes, Standardized Polynomial Codes, Error Detecting Capability of a Polynomial Code.", "Circuit Switching Networks \t Multiplexing: Frequency Division Multiplexing, Time Division Multiplexing, Wavelength-Division Multiplexing; SONET: SONET Multiplexing, SONET Frame Structure; Transport Networks: SONET Networks, Optical Transport networks; Circuit Switches: Space Division Switches, Time Division Switches; The Telephone Network: Transmission Facilities, End to End Digital Services; Cellular telephone networks.", "Peer-to-Peer Protocols and Data Link Layer  Peer-to-Peer Protocols and Service Models: Service models, Examples of services, End to end versus hop by hop; ARQ Protocols and Reliable Data Transfer Service: Stop-and-Wait ARQ, Go-Back-N ARQ, Selective Repeat ARQ; Other Peer-to-Peer Protocols: Sliding-window flow control, Timing recovery for synchronous services, TCP reliable stream service and flow control. Data Link Controls: Framing; Point to Point Protocol; HDLC Data link Control: Data link services, HDLC configuration and transfer modes, HDLC frame format, Typical frame exchanges; Link Sharing using Packet Multiplexers: Statistical Multiplexing, Speech Interpolation and the Multiplexing of Packetized Speech.", "Medium Access Control Protocols and Local Area Networks\t The Medium Access Control Protocols: Multiple Access Communications; Random Access : ALOHA, Slotted ALOHA, CSMA, CSMA-CD; Scheduling Approaches to Medium Access Control: Reservation Systems, Polling, Token-Passing Rings, Comparison of scheduling approaches in MAC, Comparison of random access and scheduling MAC; Channelization: FDMA, TDMA, CDMA. LAN Protocols: LAN Structure , The Medium Access Control Sublayer, The Logical Link Control Sublayer; Ethernet and IEEE 802.3 LAN Standard: Ethernet Protocol, Frame structure, Physical Layers, Fast Ethernet ,Gigabit Ethernet, 10 Gigabit Ethernet; Token Ring and IEEE 802.5 LAN Standard: Token-Ring Protocol, Frame structure; FDDI; Wireless LANs and IEEE 802.11 Standard: Ad hoc and Infrastructure Networks, Frame structure and addressing, Medium Access Control; LAN Bridges and Ethernet Switches: Transparent Bridges, Source Routing Bridges, Mixed-Media Bridges, Virtual LANs." ],
+        "credits" : 4,
+        "numberOfHours" : 52,
+        "subCode" : "CS560",
+        "subName" : "Computer Networks – I"
+      },
+      "CS550" : {
+        "content" : [ "Introduction to Software Engineering The Evolving Role of Software, Software, The Changing Nature of Software, Legacy Software. A Generic View of Process Software Engineering- A Layered Technology, A Process Framework, The Capability Maturity Model Integration (CMMI), Process Assessment, Personal and Team Process Model, Process Technology, Product and Process. ", "Process Models                               Prescriptive Models, The Waterfall Model, Incremental Process Models, Evolutionary Process Models, Specialized Process Models, The Unified Process. An Agile View Of Process What is Agility, What is an Agile Process, The Agile Process Models.", "Requirements Engineering                                                                  \t  A Bridge to Design and Construction, Requirements Engineering Tasks, Initiating the Requirements Engineering Process, Eliciting Requirements, Developing Use-Cases, Building the Analysis Models, Negotiating Requirements, Validating Requirements.", "Design Engineering                 Design within the Context of Software Engineering, Design Process and Design Quality, Design Concepts, The Design Model, Pattern-Based Software Design. Creating an Architectural Design Software Architecture, Data Design, Architectural Styles and Patterns, Architectural Design, Assessing Alternative Architectural Design, Mapping Data Flow into a Software Architecture.", "Testing Strategies A Strategic Approach to Software Testing, Strategic Issues, Test Strategies for Conventional Software, Test Strategies for Object-Oriented Software, Validation Testing, System Testing, The Art of Debugging Testing Tactics Software Testing Fundamentals, Black-Box and White-Box Testing, White-Box Testing, Basis Path Testing, Control Structure Testing, Black-Box Testing, Object-Oriented Testing Methods, Testing Methods Applicable at the Class Level, Interclass Test Case Design, Testing for Specialized Environment, Architectures and Applications, Testing Patterns." ],
+        "credits" : 4,
+        "numberOfHours" : 52,
+        "subCode" : "CS550",
+        "subName" : "Software Engineering"
+      },
+      "CS560" : {
+        "content" : [ "Introduction: Names, Scopes, Bindings, Data Types: The art of language design; Programming language spectrum; why study programming languages? Compilation and interpretation; Programming environments. Names, scope, and bindings: The notion of binding time; Object lifetime and storage management; Scope rules; Implementing scope; The meaning of names within a scope; The binding of referencing environments; Macro expansion. Data Types: Type systems; Type checking; Records and variants; Arrays; Strings; Sets; Pointers and recursive types; Lists; Files and Input/Output; Equality testing and assignment.", "Control Flow and Subroutine: Expression evaluation; Structured and unstructured flow; Sequencing; Selection; Iteration; Recursion; Non- determinacy Control Flow: Review of stack layout; Calling sequences; Parameter passing; Generic subroutines and modules; Exception handling; Co routines; Events.", "Data Abstraction and Object Orientation: Object oriented programming; Encapsulation and Inheritance; Initialization and finalization; Dynamic method binding; Multiple inheritance; Object oriented programming revisited.", "Functional Languages, and Logic Languages: Functional Languages: Origins; Concepts; A review/overview of scheme; Evaluation order revisited; Higher-order functions; Functional programming in perspective. Logic Languages: Concepts; Prolog; Logic programming in perspective.", "Concurrency and Run time Program Management : Background and motivation; Concurrency programming fundamentals; Implementing synchronization; Language-level mechanisms; Message passing.  Run time Programming: Virtual machines; Late binding of machine code; Inspection/introspection." ],
+        "credits" : 4,
+        "numberOfHours" : 52,
+        "subCode" : "CS560",
+        "subName" : "Principles of  Programming Language"
+      }
+    }, null, {
+      "cvzsd" : "gbdg"
+    }, null, {
+      "sdfdf" : "gnfgdfv"
+    } ]
+  },
+  "timetable" : {
+    "3" : [ null, {
+      "A" : {
+        "Friday" : {
+          "11:00 to 11:50" : {
+            "subCode" : "EC110",
+            "timings" : "11:00 to 11:50"
+          },
+          "11:50 to 12:40" : {
+            "subCode" : "CS110",
+            "timings" : "11:50 to 12:40"
+          },
+          "12:40 to 01:30" : {
+            "subCode" : "HU110",
+            "timings" : "12:40 to 01:30"
+          },
+          "2:30 to 5:30" : {
+            "subCode" : "CS12L\n",
+            "timings" : "2:30 to 5:30"
+          },
+          "9:30 to 10:30" : {
+            "subCode" : "CH110",
+            "timings" : "09:30 to 10:30"
+          }
+        },
+        "Monday" : {
+          "11:00 to 11:50" : {
+            "subCode" : "CS110",
+            "timings" : "11:00 to 11:50"
+          },
+          "11:50 to 12:40" : {
+            "subCode" : "HU130",
+            "timings" : "11:50 to 12:40"
+          },
+          "12:40 to 01:30" : {
+            "subCode" : "EC110",
+            "timings" : "12:40 to 01:30"
+          },
+          "2:30 to 3:30" : {
+            "subCode" : "MA110",
+            "timings" : "2:30 to 03:30"
+          },
+          "3:30 to 4:30" : {
+            "subCode" : "MA110",
+            "timings" : "3:30 to 4:30"
+          }
+        },
+        "Saturday" : {
+          "08:30 to 09:30" : {
+            "subCode" : "EC110",
+            "timings" : "08:30 to 09:30"
+          },
+          "09:30 to 10:30" : {
+            "subCode" : "CS110",
+            "timings" : "09:30 to 10:30"
+          },
+          "11:00 to 1:30" : {
+            "subCode" : "ME120 \n",
+            "timings" : "11:00 to 11:50"
+          }
+        },
+        "Thursday" : {
+          "08:30 to 09:30" : {
+            "subCode" : "CH110",
+            "timings" : "08:30 to 09:30"
+          },
+          "09:30 to 10:30" : {
+            "subCode" : "HU110",
+            "timings" : "09:30 to 10:30"
+          },
+          "11:00 to 11:50" : {
+            "subCode" : "MA110",
+            "timings" : "11:00 to 11:50"
+          },
+          "11:50 to 12:40" : {
+            "subCode" : "MA110",
+            "timings" : "11:50 to 12:40"
+          }
+        },
+        "Tuesday" : {
+          "07:30 to 08:30" : {
+            "subCode" : "EC110",
+            "timings" : "07:30 to 08:30"
+          },
+          "08:30 to 09:30" : {
+            "subCode" : "CS110",
+            "timings" : "08:30 to 09:30"
+          },
+          "09:30 to 10:30" : {
+            "subCode" : "CH110",
+            "timings" : "09:30 to 10:30"
+          },
+          "11:00 to 1:30" : {
+            "subCode" : "ME120\n",
+            "timings" : "11:00 to 1:30"
+          }
+        },
+        "Wednesday" : {
+          "11:00 to 11:50" : {
+            "subCode" : "MA110",
+            "timings" : "11:00 to 11:50"
+          },
+          "11:50 to 12:40" : {
+            "subCode" : "HU130",
+            "timings" : "11:50 to 12:40"
+          },
+          "12:40 to 1:30" : {
+            "subCode" : "CH110",
+            "timings" : "12:40 to 1:30"
+          },
+          "2:30 to 5:30" : {
+            "subCode" : "CS12L\n",
+            "timings" : "2:30 to 5:30"
+          }
+        }
+      },
+      "B" : {
+        "Friday" : {
+          "07:30 to 08:30" : {
+            "subCode" : "HU110",
+            "timings" : "07:30 to 08:30"
+          },
+          "08:30 to 09:30" : {
+            "subCode" : "CS110",
+            "timings" : "08:30 to 09:30"
+          },
+          "09:30 to 10:30" : {
+            "subCode" : "MA110",
+            "timings" : "09:30 to 10:30"
+          },
+          "11:00 to 1:30" : {
+            "subCode" : "ME120\n",
+            "timings" : "11:00 to 1:30"
+          }
+        },
+        "Monday" : {
+          "07:30 to 08:30" : {
+            "subCode" : "EC110",
+            "timings" : "07:30 to 08:30"
+          },
+          "08:30 to 09:30" : {
+            "subCode" : "MA110",
+            "timings" : "08:30 to 09:30"
+          },
+          "09:30 to 10:30" : {
+            "subCode" : "CH110",
+            "timings" : "09:30 to 10:30"
+          },
+          "11:00 to 1:30" : {
+            "subCode" : "ME120\n",
+            "timings" : "11:00 to 1:30"
+          }
+        },
+        "Saturday" : {
+          "09:30 to 10:30" : {
+            "subCode" : "HU110",
+            "timings" : "09:30 to 10:30"
+          },
+          "11:00 to 11:50" : {
+            "subCode" : "CH110",
+            "timings" : "11:00 to 11:50"
+          },
+          "11:50 to 12:40" : {
+            "subCode" : "EC110",
+            "timings" : "11:50 to 12:40"
+          },
+          "12:40 to 1:30" : {
+            "subCode" : "CS110",
+            "timings" : "12:40 to 1:30"
+          }
+        },
+        "Thursday" : {
+          "09:30 to 10:30" : {
+            "subCode" : "HU130",
+            "timings" : "09:30 to 10:30"
+          },
+          "11:00 to 11:50" : {
+            "subCode" : "EC110",
+            "timings" : "11:00 to 11:50"
+          },
+          "11:50 to 12:40" : {
+            "subCode" : "MA110",
+            "timings" : "11:50 to 12:40"
+          },
+          "12:40 to 1:30" : {
+            "subCode" : "CH110",
+            "timings" : "12:40 to 1:30"
+          },
+          "2:30 to 5:30" : {
+            "subCode" : "CS12L\n",
+            "timings" : "2:30 to 5:30"
+          }
+        },
+        "Tuesday" : {
+          "11:00 to 11:50" : {
+            "subCode" : "MA110",
+            "timings" : "11:00 to 11:50"
+          },
+          "11:50 to 12:40" : {
+            "subCode" : "MA110",
+            "timings" : "11:50 to 12:40"
+          },
+          "12:40 to 1:30" : {
+            "subCode" : "HU130",
+            "timings" : "12:40 to 1:30"
+          },
+          "2:30 to 3:30" : {
+            "subCode" : "EC110",
+            "timings" : "2:30 to 3:30"
+          },
+          "3:30 to 4:30" : {
+            "subCode" : "CH110",
+            "timings" : "3:30 to 4:30"
+          },
+          "4:30 to 5:30" : {
+            "subCode" : "CS110",
+            "timings" : "4:30 to 5:30"
+          }
+        },
+        "Wednesday" : {
+          "09:30 to 10:30" : {
+            "subCode" : "CS110",
+            "timings" : "09:30 to 10:30"
+          },
+          "11:00 to 1:30" : {
+            "subCode" : "CS12L\n",
+            "timings" : "11:00 to 1:30"
+          }
+        }
+      },
+      "P" : {
+        "Friday" : {
+          "11:00 to 11:50" : {
+            "subCode" : "MA110",
+            "timings" : "11:00 to 11:50"
+          },
+          "11:50 to 12:40" : {
+            "subCode" : "MA110",
+            "timings" : "11:50 to 12:40"
+          },
+          "12:40 to 01:30" : {
+            "subCode" : "EC110",
+            "timings" : "12:40 to 01:30"
+          },
+          "9:30 to 10:30" : {
+            "subCode" : "CS110",
+            "timings" : "09:30 to 10:30"
+          }
+        },
+        "Monday" : {
+          "07:30 to 09:30" : {
+            "subCode" : "CS12L\n",
+            "timings" : "07:30 to 09:30"
+          },
+          "11:00 to 11:50" : {
+            "subCode" : "HU110",
+            "timings" : "11:00 to 11:50"
+          },
+          "11:50 to 12:40" : {
+            "subCode" : "MA110",
+            "timings" : "11:50 to 12:40"
+          },
+          "12:40 to 01:30" : {
+            "subCode" : "CS110",
+            "timings" : "12:40 to 01:30"
+          }
+        },
+        "Saturday" : {
+          "07:30 to 09:30" : {
+            "subCode" : "CS110",
+            "timings" : "07:30 to 09:30"
+          },
+          "08:30 to 09:30" : {
+            "subCode" : "MA110",
+            "timings" : "08:30 to 09:30"
+          },
+          "09:30 to 10:30" : {
+            "subCode" : "EC110",
+            "timings" : "09:30 to 10:30"
+          },
+          "11:00 to 11:50" : {
+            "subCode" : "CH110",
+            "timings" : "11:00 to 11:50"
+          },
+          "11:50 to 12:40" : {
+            "subCode" : "HU130",
+            "timings" : "11:50 to 12:40"
+          },
+          "12:40 to 1:30" : {
+            "subCode" : "HU110",
+            "timings" : "12:40 to 1:30"
+          }
+        },
+        "Thursday" : {
+          "07:30 to 10:30" : {
+            "subCode" : "CS12L\n",
+            "timings" : "07:30 to 10:30"
+          },
+          "11:00 to 11:50" : {
+            "subCode" : "CS110",
+            "timings" : "11:00 to 11:50"
+          },
+          "11:50 to 12:40" : {
+            "subCode" : "EC110",
+            "timings" : "11:50 to 12:40"
+          },
+          "12:40 to 1:30" : {
+            "subCode" : "CH110",
+            "timings" : "12:40 to 1:30"
+          }
+        },
+        "Tuesday" : {
+          "07:30 to 10:30" : {
+            "subCode" : "ME120\n",
+            "timings" : "07:30 to 10:30"
+          },
+          "11:00 to 11:50" : {
+            "subCode" : "MA110",
+            "timings" : "11:00 to 11:50"
+          },
+          "11:50 to 12:40" : {
+            "subCode" : "CH110",
+            "timings" : "11:50 to 12:40"
+          }
+        },
+        "Wednesday" : {
+          "11:00 to 11:50" : {
+            "subCode" : "HU130",
+            "timings" : "11:00 to 11:50"
+          },
+          "11:50 to 12:40" : {
+            "subCode" : "CS110",
+            "timings" : "11:50 to 12:40"
+          },
+          "12:40 to 1:30" : {
+            "subCode" : "EC110",
+            "timings" : "12:40 to 1:30"
+          },
+          "2:30 to 5:30" : {
+            "subCode" : "ME120\n",
+            "timings" : "2:30 to 5:30"
+          }
+        }
+      }
+    }, null, {
+      "A" : {
+        "Friday" : {
+          "11:00 to 11:50" : {
+            "subCode" : "CS310",
+            "timings" : "11:00 to 11:50"
+          },
+          "11:50 to 12:40" : {
+            "subCode" : "CS330",
+            "timings" : "11:50 to 12:40"
+          },
+          "12:40 to 01:30" : {
+            "subCode" : "CS340",
+            "timings" : "12:40 to 01:30"
+          },
+          "2:30 to 4:30" : {
+            "subCode" : "CS310P - A3\nCS340P - A1\nCS350P - A2",
+            "timings" : "2:30 to 4:30"
+          }
+        },
+        "Monday" : {
+          "08:30 to 09:30" : {
+            "subCode" : "HU320",
+            "timings" : "08:30 to 09:30"
+          },
+          "09:30 to 10:30" : {
+            "subCode" : "MA310",
+            "timings" : "09:30 to 10:30"
+          },
+          "11:00 to 11:50" : {
+            "subCode" : "CS320",
+            "timings" : "11:00 to 11:50"
+          },
+          "11:50 to 12:40" : {
+            "subCode" : "CS310",
+            "timings" : "11:50 to 12:40"
+          },
+          "12:40 to 01:30" : {
+            "subCode" : "CS330",
+            "timings" : "12:40 to 01:30"
+          },
+          "2:30 to 4:30" : {
+            "subCode" : "CS310P - A1\nCS340P - A2\nCS350P - A3",
+            "timings" : "2:30 to 4:30"
+          }
+        },
+        "Saturday" : {
+          "08:30 to 09:30" : {
+            "subCode" : "HU320",
+            "timings" : "08:30 to 09:30"
+          },
+          "09:30 to 10:30" : {
+            "subCode" : "MA310",
+            "timings" : "09:30 to 10:30"
+          },
+          "11:00 to 11:50" : {
+            "subCode" : "CS350",
+            "timings" : "11:00 to 11:50"
+          },
+          "11:50 to 12:40" : {
+            "subCode" : "CS310",
+            "timings" : "11:50 to 12:40"
+          },
+          "12:40 to 1:30" : {
+            "subCode" : "CS320",
+            "timings" : "12:40 to 1:30"
+          }
+        },
+        "Thursday" : {
+          "11:00 to 11:50" : {
+            "subCode" : "CS330",
+            "timings" : "11:00 to 11:50"
+          },
+          "11:50 to 12:40" : {
+            "subCode" : "CS340",
+            "timings" : "11:50 to 12:40"
+          },
+          "12:40 to 1:30" : {
+            "subCode" : "CS350",
+            "timings" : "12:40 to 1:30"
+          },
+          "2:30 to 3:30" : {
+            "subCode" : "MA310",
+            "timings" : "2:30 to 3:30"
+          },
+          "3:30 to 4:30" : {
+            "subCode" : "CS320",
+            "timings" : "3:30 to 4:30"
+          }
+        },
+        "Tuesday" : {
+          "11:00 to 11:50" : {
+            "subCode" : "MA310",
+            "timings" : "11:00 to 11:50"
+          },
+          "11:50 to 12:40" : {
+            "subCode" : "MA320",
+            "timings" : "11:50 to 12:40"
+          },
+          "12:40 to 1:30" : {
+            "subCode" : "CS310",
+            "timings" : "12:40 to 1:30"
+          },
+          "2:30 to 3:30" : {
+            "subCode" : "CS350",
+            "timings" : "2:30 to 3:30"
+          },
+          "3:30 to 4:30" : {
+            "subCode" : "CS340",
+            "timings" : "3:30 to 4:30"
+          }
+        },
+        "Wednesday" : {
+          "11:00 to 11:50" : {
+            "subCode" : "CS350",
+            "timings" : "11:00 to 11:50"
+          },
+          "11:50 to 12:40" : {
+            "subCode" : "CS330",
+            "timings" : "11:50 to 12:40"
+          },
+          "12:40 to 1:30" : {
+            "subCode" : "CS340",
+            "timings" : "12:40 to 1:30"
+          },
+          "2:30 to 4:30" : {
+            "subCode" : "CS310P - A2\nCS340P - A3\nCS350P - A1",
+            "timings" : "2:30 to 4:30"
+          }
+        }
+      },
+      "B" : {
+        "Friday" : {
+          "09:30 to 10:30" : {
+            "subCode" : "CS340",
+            "timings" : "09:30 to 10:30"
+          },
+          "11:00 to 11:50" : {
+            "subCode" : "MA310",
+            "timings" : "11:00 to 11:50"
+          },
+          "11:50 to 12:40" : {
+            "subCode" : "CS310",
+            "timings" : "11:50 to 12:40"
+          },
+          "12:40 to 1:30" : {
+            "subCode" : "HU320",
+            "timings" : "12:40 to 1:30"
+          }
+        },
+        "Monday" : {
+          "08:30 to 09:30" : {
+            "subCode" : "CS320",
+            "timings" : "08:30 to 09:30"
+          },
+          "09:30 to 10:30" : {
+            "subCode" : "CS340",
+            "timings" : "09:30 to 10:30"
+          },
+          "11:00 to 11:50" : {
+            "subCode" : "CS350",
+            "timings" : "11:00 to 11:50"
+          },
+          "11:50 to 12:40" : {
+            "subCode" : "CS330",
+            "timings" : "11:50 to 12:40"
+          },
+          "12:40 to 1:30" : {
+            "subCode" : "CS310",
+            "timings" : "12:40 to 1:30"
+          }
+        },
+        "Saturday" : {
+          "07:30 to 08:30" : {
+            "subCode" : "CS350",
+            "timings" : "07:30 to 08:30"
+          },
+          "08:30 to 09:30" : {
+            "subCode" : "CS320",
+            "timings" : "08:30 to 09:30"
+          },
+          "09:30 to 10:30" : {
+            "subCode" : "CS330",
+            "timings" : "09:30 to 10:30"
+          }
+        },
+        "Thursday" : {
+          "09:30 to 10:30" : {
+            "subCode" : "MA310",
+            "timings" : "09:30 to 10:30"
+          },
+          "11:00 to 11:50" : {
+            "subCode" : "CS350",
+            "timings" : "11:00 to 11:50"
+          },
+          "11:50 to 12:40" : {
+            "subCode" : "CS330",
+            "timings" : "11:50 to 12:40"
+          },
+          "12:40 to 1:30" : {
+            "subCode" : "CS320",
+            "timings" : "12:40 to 1:30"
+          },
+          "2:30 to 4:30" : {
+            "subCode" : "CS310P - B2\nCS340P - B3\nCS350P - B1",
+            "timings" : "2:30 to 4:30"
+          }
+        },
+        "Tuesday" : {
+          "08:30 to 09:30" : {
+            "subCode" : "CS310",
+            "timings" : "08:30 to 09:30"
+          },
+          "09:30 to 10:30" : {
+            "subCode" : "MA310",
+            "timings" : "09:30 to 10:30"
+          },
+          "11:00 to 11:50" : {
+            "subCode" : "CS350",
+            "timings" : "11:00 to 11:50"
+          },
+          "11:50 to 12:40" : {
+            "subCode" : "CS340",
+            "timings" : "11:50 to 12:40"
+          },
+          "12:40 to 1:30" : {
+            "subCode" : "HU320",
+            "timings" : "12:40 to 1:30"
+          },
+          "2:30 to 4:30" : {
+            "subCode" : "CS310P - B1\nCS340P - B2\nCS350P - B3",
+            "timings" : "2:30 to 4:30"
+          }
+        },
+        "Wednesday" : {
+          "11:00 to 11:50" : {
+            "subCode" : "CS340",
+            "timings" : "11:00 to 11:50"
+          },
+          "11:50 to 12:40" : {
+            "subCode" : "CS310",
+            "timings" : "11:50 to 12:40"
+          },
+          "12:40 to 1:30" : {
+            "subCode" : "MA310",
+            "timings" : "12:40 to 1:30"
+          },
+          "2:30 to 3:30" : {
+            "subCode" : "CS330",
+            "timings" : "2:30 to 3:30"
+          },
+          "3:30 to 4:30" : {
+            "subCode" : "CS320",
+            "timings" : "3:30 to 4:30"
+          }
+        }
+      }
+    }, null, {
+      "A" : {
+        "Friday" : {
+          "08:30 to 09:30" : {
+            "subCode" : "CS550",
+            "timings" : "08:30 to 09:30"
+          },
+          "09:30 to 10:30" : {
+            "subCode" : "CS520",
+            "timings" : "09:30 to 10:30"
+          },
+          "11:00 to 11:50" : {
+            "subCode" : "CS560",
+            "timings" : "11:00 to 11:50"
+          },
+          "11:50 to 12:40" : {
+            "subCode" : "CS540",
+            "timings" : "11:50 to 12:40"
+          },
+          "12:40 to 1:30" : {
+            "subCode" : "CS510",
+            "timings" : "12:40 to 1:30"
+          },
+          "2:30 to 4:30" : {
+            "subCode" : "CS530(T) - A2",
+            "timings" : "2:30 to 4:30"
+          }
+        },
+        "Monday" : {
+          "07:30 to 10:30" : {
+            "subCode" : "CS57L - A1",
+            "timings" : "07:30 to 10:30"
+          },
+          "11:00 to 11:50" : {
+            "subCode" : "CS550",
+            "timings" : "11:00 to 11:50"
+          },
+          "11:50 to 12:40" : {
+            "subCode" : "CS520",
+            "timings" : "11:50 to 12:40"
+          },
+          "12:40 to 1:30" : {
+            "subCode" : "CS560",
+            "timings" : "12:40 to 1:30"
+          },
+          "2:30 to 3:30" : {
+            "subCode" : "CS510",
+            "timings" : "2:30 to 3:30"
+          },
+          "3:30 to 4:30" : {
+            "subCode" : "CS540",
+            "timings" : "3:30 to 4:30"
+          }
+        },
+        "Saturday" : {
+          "09:30 to 10:30" : {
+            "subCode" : "CS560",
+            "timings" : "09:30 to 10:30"
+          },
+          "11:00 to 11:50" : {
+            "subCode" : "CS510",
+            "timings" : "11:00 to 11:50"
+          },
+          "11:50 to 12:40" : {
+            "subCode" : "CS520",
+            "timings" : "11:50 to 12:40"
+          },
+          "12:40 to 1:30" : {
+            "subCode" : "CS530",
+            "timings" : "12:40 to 1:30"
+          }
+        },
+        "Thursday" : {
+          "09:30 to 10:30" : {
+            "subCode" : "CS540",
+            "timings" : "09:30 to 10:30"
+          },
+          "11:00 to 1:30" : {
+            "subCode" : "CS58L - A1\nCS58L - A2\nCS58L - A3",
+            "timings" : "11:00 to 1:30"
+          }
+        },
+        "Tuesday" : {
+          "07:30 to 10:30" : {
+            "subCode" : "CS57L - A2",
+            "timings" : "07:30 to 10:30"
+          },
+          "11:00 to 11:50" : {
+            "subCode" : "CS540",
+            "timings" : "11:00 to 11:50"
+          },
+          "11:50 to 12:40" : {
+            "subCode" : "CS530",
+            "timings" : "11:50 to 12:40"
+          },
+          "12:40 to 1:30" : {
+            "subCode" : "CS550",
+            "timings" : "12:40 to 1:30"
+          },
+          "2:30 to 5:30" : {
+            "subCode" : "CS57L - A3",
+            "timings" : "2:30 to 5:30"
+          }
+        },
+        "Wednesday" : {
+          "08:30 to 09:30" : {
+            "subCode" : "CS560",
+            "timings" : "08:30 to 09:30"
+          },
+          "09:30 to 10:30" : {
+            "subCode" : "CS510",
+            "timings" : "09:30 to 10:30"
+          },
+          "11:00 to 11:50" : {
+            "subCode" : "CS520",
+            "timings" : "11:00 to 11:50"
+          },
+          "11:50 to 12:40" : {
+            "subCode" : "CS550",
+            "timings" : "11:50 to 12:40"
+          },
+          "12:40 to 1:30" : {
+            "subCode" : "CS530",
+            "timings" : "12:40 to 1:30"
+          },
+          "2:30 to 4:30" : {
+            "subCode" : "CS530(T) - A1",
+            "timings" : "2:30 to 4:30"
+          }
+        }
+      },
+      "B" : {
+        "Friday" : {
+          "11:00 to 1:30" : {
+            "subCode" : "CS58L - B1\nCS58L - B2\nCS58L - B3",
+            "timings" : "11:00 to 1:30"
+          },
+          "2:30 to 3:30" : {
+            "subCode" : "CS520",
+            "timings" : "2:30 to 3:30"
+          },
+          "3:30 to 4:30" : {
+            "subCode" : "CS560",
+            "timings" : "3:30 to 4:30"
+          }
+        },
+        "Monday" : {
+          "11:00 to 11:50" : {
+            "subCode" : "CS520",
+            "timings" : "11:00 to 11:50"
+          },
+          "11:50 to 12:40" : {
+            "subCode" : "CS540",
+            "timings" : "11:50 to 12:40"
+          },
+          "12:40 to 1:30" : {
+            "subCode" : "CS530",
+            "timings" : "12:40 to 1:30"
+          },
+          "2:30 to 3:30" : {
+            "subCode" : "CS550",
+            "timings" : "2:30 to 3:30"
+          },
+          "3:30 to 4:30" : {
+            "subCode" : "CS510",
+            "timings" : "3:30 to 4:30"
+          }
+        },
+        "Saturday" : {
+          "08:30 to 09:30" : {
+            "subCode" : "CS510",
+            "timings" : "08:30 to 09:30"
+          },
+          "09:30 to 10:30" : {
+            "subCode" : "CS530",
+            "timings" : "09:30 to 10:30"
+          },
+          "11:00 to 11:50" : {
+            "subCode" : "CS560",
+            "timings" : "11:00 to 11:50"
+          },
+          "11:50 to 12:40" : {
+            "subCode" : "CS540",
+            "timings" : "11:50 to 12:40"
+          },
+          "12:40 to 1:30" : {
+            "subCode" : "CS520",
+            "timings" : "12:40 to 1:30"
+          }
+        },
+        "Thursday" : {
+          "11:00 to 11:50" : {
+            "subCode" : "CS510",
+            "timings" : "11:00 to 11:50"
+          },
+          "11:50 to 12:40" : {
+            "subCode" : "CS550",
+            "timings" : "11:50 to 12:40"
+          },
+          "12:40 to 1:30" : {
+            "subCode" : "CS540",
+            "timings" : "12:40 to 1:30"
+          },
+          "2:30 to 4:30" : {
+            "subCode" : "CS530(T) - B1",
+            "timings" : "2:30 to 4:30"
+          }
+        },
+        "Tuesday" : {
+          "08:30 to 10:30" : {
+            "subCode" : "CS530(T) - B2",
+            "timings" : "08:30 to 10:30"
+          },
+          "11:00 to 11:50" : {
+            "subCode" : "CS540",
+            "timings" : "11:00 to 11:50"
+          },
+          "11:50 to 12:40" : {
+            "subCode" : "CS560",
+            "timings" : "11:50 to 12:40"
+          },
+          "12:40 to 1:30" : {
+            "subCode" : "CS520",
+            "timings" : "12:40 to 1:30"
+          },
+          "2:30 to 3:30" : {
+            "subCode" : "CS510",
+            "timings" : "2:30 to 3:30"
+          },
+          "3:30 to 4:30" : {
+            "subCode" : "CS550",
+            "timings" : "3:30 to 4:30"
+          }
+        },
+        "Wednesday" : {
+          "07:30 to 10:30" : {
+            "subCode" : "CS57L - B1\nCS57L - B2\nCS57L - B3",
+            "timings" : "07:30 to 10:30"
+          },
+          "11:00 to 11:50" : {
+            "subCode" : "CS530",
+            "timings" : "11:00 to 11:50"
+          },
+          "11:50 to 12:40" : {
+            "subCode" : "CS550",
+            "timings" : "11:50 to 12:40"
+          },
+          "12:40 to 1:30" : {
+            "subCode" : "CS560",
+            "timings" : "12:40 to 1:30"
+          },
+          "7:30 to 10:30" : {
+            "subCode" : "CS57L - B1\nCS57L - B2\nCS57L - B3",
+            "timings" : "7:30 to 10:30"
+          }
+        }
+      }
+    } ],
+    "9" : [ null, {
+      "ddfs" : "fgdf"
+    }, null, {
+      "sfgd" : "ghdv"
+    }, null, {
+      "ghd" : "gdff"
+    } ]
+  },
+  "whatsthis" : [ "John", "Tim", "Sam", "Ben" ]
+}
